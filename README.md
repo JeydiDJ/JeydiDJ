@@ -44,7 +44,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
   <!-- Backend & Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
 
