@@ -19,7 +19,13 @@ I build **real-world web applications** with a strong focus on **Progressive Web
 ## Featured Project
 
 ### 🧭 PHinder
-<img src="./assets/phinder-banner.png" alt="PHinder Banner" width="100%" />
+<p align="center">
+  <img
+    src="./assets/phinder-banner.png"
+    alt="PHinder Banner"
+    style="border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);"
+  />
+</p>
 A web-based platform that helps locate missing persons in Pampanga.
 
 **Key features:**
