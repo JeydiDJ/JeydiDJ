@@ -49,7 +49,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeydiDJ&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JeydiDJ&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeydiDJ&layout=compact&theme=tokyonight&cache_seconds=86400)
 
