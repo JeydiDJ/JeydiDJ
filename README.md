@@ -1,7 +1,5 @@
-# Hi 👋, I'm JD De Jesus (JDDJ)
-
 <p align="center">
-  <img src="./assets/xerath-dance.gif" width="220" alt="Dancing Xerath" />
+  <img src="./assets/personal-banner.png" alt="JD De Jesus Personal Banner" style="border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); max-width: 100%;" />
 </p>
 
 <p align="center">
