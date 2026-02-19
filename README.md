@@ -16,7 +16,7 @@ I build **real-world web applications** with a strong focus on **Progressive Web
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🧭 PHinder
 A web-based platform that helps locate missing persons in Pampanga.
@@ -31,7 +31,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -112,7 +112,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <p align="center">
   <!-- Streak -->
@@ -128,7 +128,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/JeydiDJ">GitHub</a> • 
