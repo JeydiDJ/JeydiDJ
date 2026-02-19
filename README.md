@@ -121,7 +121,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 <p align="center">
   <!-- Reliable badges instead of graphs -->
-  <img src="https://img.shields.io/github/commit-activity/m/JeydiDJ?style=for-the-badge&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/JeydiDJ?style=for-the-badge&logo=github" alt="Commits" />
   <img src="https://img.shields.io/badge/Pull%20Requests-Active-blue?style=for-the-badge&logo=github" alt="Pull Requests" />
   <img src="https://img.shields.io/badge/Repositories-9-orange?style=for-the-badge&logo=github" alt="Repositories" />
   <img src="https://img.shields.io/github/followers/JeydiDJ?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
