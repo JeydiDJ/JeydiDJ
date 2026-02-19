@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm JD De Jesus (JDDJ)
 
-<!--
-**JeydiDJ/JeydiDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer • PWA Enthusiast • Philippines
 
-Here are some ideas to get you started:
+I build **real-world web applications** with a strong focus on **Progressive Web Apps**, performance, and clean UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **PHinder**
+- 🌱 Learning **Advanced Vue Architecture & Backend Scaling**
+- ⚡ Passionate about **PWAs, maps, and real-time systems**
+
+---
+
+## 🚀 Featured Project
+
+### 🧭 PHinder
+A web-based platform that helps locate missing persons in Pampanga.
+
+**Key features:**
+- 🗺 Interactive map with real-time updates
+- 🔍 Verified community-submitted reports
+- 📱 Progressive Web App (offline-ready)
+- 🔥 Firebase-powered backend
+
+👉 **Repo:** https://github.com/JeydiDJ/PHinder
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- Vue.js
+- TypeScript
+- Tailwind CSS
+
+**Backend / Services**
+- Firebase (Auth, Firestore)
+- Mapbox (Geolocation & Maps)
+
+**Other**
+- Progressive Web Apps (PWA)
+- Service Workers
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeydiDJ&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeydiDJ&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/JeydiDJ
+- Portfolio: https://johndavedejesus.wixsite.com/de-jesus-jd-portfoli
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=JeydiDJ&color=blue)
