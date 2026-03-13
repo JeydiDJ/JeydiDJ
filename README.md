@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-💻 Web Developer • 🚀 PWA Enthusiast • 🌏 Philippines
+Web Developer • PWA Enthusiast • Philippines
 </p>
 
 I build **real-world web applications** with a strong focus on **Progressive Web Apps**, performance, and clean UI/UX.
 
-- 🔭 Currently working on **PHinder**
-- 🌱 Learning **Advanced Vue Architecture & Backend Scaling**
-- ⚡ Passionate about **PWAs, maps, and real-time systems**
+- Currently working on **PHinder**
+- Learning **Advanced Vue Architecture & Backend Scaling**
+- Passionate about **PWAs, maps, and real-time systems**
 
 ---
 
 ## Featured Project
 
-### 🧭 PHinder
+### PHinder
 <p align="center">
   <img
     src="./assets/phinder-banner.png"
@@ -32,7 +32,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 - 📱 Progressive Web App (offline-ready)
 - 🔥 Firebase-powered backend
 
-👉 **Repo:** [PHinder](https://github.com/JeydiDJ/PHinder)
+**Repo:** [PHinder](https://github.com/JeydiDJ/PHinder)
 
 ---
 
