@@ -137,7 +137,7 @@ A web-based platform that helps locate missing persons in Pampanga.
 
 <p align="center">
   <a href="https://github.com/JeydiDJ">GitHub</a> • 
-  <a href="https://johndavedejesus.wixsite.com/de-jesus-jd-portfoli](https://dejesus-portfolio-lyart.vercel.app">Portfolio</a>
+  <a href="https://dejesus-portfolio-lyart.vercel.app">Portfolio</a>
 </p>
 
 <p align="center">
