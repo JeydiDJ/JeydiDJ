@@ -1,131 +1,132 @@
+# JD De Jesus
+
 <p align="center">
   <img src="./assets/personal-banner.png" alt="JD De Jesus Personal Banner" style="border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); max-width: 100%;" />
 </p>
 
 <p align="center">
-Web Developer • PWA Enthusiast • Philippines
+  <strong>Web Developer focused on scalable applications, real-time systems, and modern UI/UX</strong>
 </p>
 
-I build **real-world web applications** with a strong focus on **Progressive Web Apps**, performance, and clean UI/UX.
-
-- Currently working on **PHinder**
-- Learning **Advanced Vue Architecture & Backend Scaling**
-- Passionate about **PWAs, maps, and real-time systems**
+<p align="center">
+  Open to Web Developer and Full-Stack roles
+</p>
 
 ---
 
-## Featured Project
+## About Me
 
-### PHinder
-<p align="center">
-  <img
-    src="./assets/phinder-banner.png"
-    alt="PHinder Banner"
-    style="border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);"
-  />
-</p>
-A web-based platform that helps locate missing persons in Pampanga.
+I’m a web developer with real-world experience building scalable, performant, and user-focused applications.
 
-**Key features:**
-- 🗺 Interactive map with real-time updates
-- 🔍 Verified community-submitted reports
-- 📱 Progressive Web App (offline-ready)
-- 🔥 Firebase-powered backend
+I specialize in:
+- Modern frontend frameworks (Angular, Vue, React, Next.js)
+- Progressive Web Apps (PWA)
+- Real-time systems and API integrations
+- Clean, responsive, and intuitive UI/UX
 
-**Repo:** [PHinder](https://github.com/JeydiDJ/PHinder)
+I focus on building production-ready applications that are not only functional, but also efficient and maintainable.
+
+---
+
+## How I Build
+
+- I design applications with scalability and maintainability in mind  
+- I prioritize performance and responsiveness from the start  
+- I focus on real-world usability, not just technical implementation  
+- I structure code for clarity, modularity, and long-term growth  
+- I iterate quickly and continuously improve based on feedback  
+
+---
+
+## Core Strengths
+
+- Full-stack web development and system integration  
+- API design and real-time data handling  
+- Responsive and user-centered interface design  
+- Progressive Web App development and optimization  
+- Clean architecture and maintainable code practices  
+
+---
+
+## What I’m Currently Doing
+
+- Building and refining full-stack web applications  
+- Improving performance, scalability, and user experience  
+- Exploring advanced frontend architecture and backend systems  
+- Learning more about real-time applications and automation workflows  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="CSS3"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Tailwind CSS"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Vue.js"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Angular"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="TypeScript"/>
-  </a>
 
-  <!-- Backend & Languages -->
-  <a href="https://www.python.org/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Python"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" alt="Django"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Django"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Node.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="MongoDB"/>
-  </a>
+<img src="./assets/w3_html5-icon.svg" width="50" title="HTML5" alt="HTML5"/>
+<img src="./assets/w3_css-icon~old.svg" width="50" title="CSS3" alt="CSS3"/>
+<img src="./assets/tailwindcss-icon.svg" width="50" title="Tailwind CSS" alt="Tailwind CSS"/>
+<img src="./assets/javascript-icon.svg" width="50" title="JavaScript" alt="JavaScript"/>
+<img src="./assets/typescriptlang-icon.svg" width="50" title="TypeScript" alt="TypeScript"/>
 
-  <!-- Services -->
-  <a href="https://firebase.google.com/" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"
-      onmouseover="this.style.transform='scale(1.2)'; this.style.transition='0.3s';"
-      onmouseout="this.style.transform='scale(1)';"
-      title="Firebase"/>
-  </a>
+<br/>
+
+<img src="./assets/angular-icon.svg" width="50" title="Angular" alt="Angular"/>
+<img src="./assets/vuejs-icon.svg" width="50" title="Vue.js" alt="Vue.js"/>
+<img src="./assets/reactjs-icon.svg" width="50" title="React" alt="React"/>
+<img src="./assets/nextjs-icon.svg" width="50" title="Next.js" alt="Next.js"/>
+
+<br/>
+
+<img src="./assets/nodejs-icon.svg" width="50" title="Node.js" alt="Node.js"/>
+<img src="./assets/python-icon.svg" width="50" title="Python" alt="Python"/>
+<img src="./assets/djangoproject-icon.svg" width="50" title="Django" alt="Django"/>
+
+<br/>
+
+<img src="./assets/mongodb-icon.svg" width="50" title="MongoDB" alt="MongoDB"/>
+<img src="./assets/firebase-icon.svg" width="50" title="Firebase" alt="Firebase"/>
+<img src="./assets/supabase-icon.svg" width="50" title="Supabase" alt="Supabase"/>
+
 </p>
-
-
-
 
 ---
 
-## GitHub Stats & Activity
+## What I Bring
+
+- Experience building full-stack applications from scratch  
+- Strong understanding of data flow, APIs, and real-time updates  
+- Focus on intuitive and user-centered UI/UX  
+- Ability to ship quickly and iterate efficiently  
+- Clean, modular, and maintainable code practices  
+
+---
+
+## Experience
+
+- Junior Web Developer working on real-world applications  
+- Built internal systems and full-stack web applications  
+- Experience with modern frameworks and backend services  
+- Freelance experience delivering custom web solutions  
+
+---
+
+## Opportunities
+
+Open to:
+- Junior Web Developer roles  
+- Frontend Developer roles  
+- Full-stack opportunities  
+
+Interested in building scalable systems and contributing to real-world applications.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=JeydiDJ&theme=tokyonight" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
-  <!-- Reliable badges instead of graphs -->
   <img src="https://img.shields.io/badge/Pull%20Requests-Active-blue?style=for-the-badge&logo=github" alt="Pull Requests" />
   <img src="https://img.shields.io/badge/Repositories-9-orange?style=for-the-badge&logo=github" alt="Repositories" />
   <img src="https://img.shields.io/github/followers/JeydiDJ?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
